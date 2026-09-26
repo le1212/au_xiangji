@@ -11,3 +11,6 @@ Desktop.ini
 # 构建产物与本机脚本（APK 走 GitHub Releases 分发）
 *.apk
 *.bat
+
+# 本机文档（对外文档只保留根 README）
+使用说明.md

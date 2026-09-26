@@ -44,8 +44,6 @@ node server.js
 > 手机访问需要 HTTPS（内网穿透如 `npx localtunnel --port 5177`、ngrok，或
 > 自签名证书），也直接安装 APK 使用。
 
-完整的产品视角说明见 [使用说明.md](./使用说明.md)。
-
 ## ⚙️ 配置模型
 
 首次打开点右上角「设置」，选择服务商预设并填入自己的 API Key：
@@ -69,9 +67,9 @@ node server.js
 
 ```
 composition-coach/
+├── README.md                        # 本文件（项目门面 + 使用文档）
 ├── AGENTS.md                        # 项目约定（AI 协作必读）
 ├── DESIGN.md                        # 设计规范：暗房光学仪器设计语言
-├── 使用说明.md                       # 产品说明（用户视角）
 └── composition-coach-web-src/       # 全部源码
     ├── server.js                    # 零依赖静态服务器（localhost:5177）
     ├── index.html                   # 单页应用：取景器 / 档案 / 会话详情 / 设置

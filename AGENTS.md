@@ -36,7 +36,7 @@
 composition-coach/
 ├── AGENTS.md                        # 本文件
 ├── DESIGN.md                        # 设计规范（暗房光学仪器设计语言，UI 改动必读）
-├── 使用说明.md                       # 产品说明（用户视角）
+├── README.md                        # 项目门面与使用文档（GitHub 标准）
 └── composition-coach-web-src/       # 全部源码
     ├── server.js                    # 静态服务器（localhost:5177）
     ├── index.html                   # 单页应用骨架
