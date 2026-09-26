@@ -7,3 +7,7 @@ Desktop.ini
 .zcode/
 *.swp
 *~
+
+# 构建产物与本机脚本（APK 走 GitHub Releases 分发）
+*.apk
+*.bat
