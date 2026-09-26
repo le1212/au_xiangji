@@ -1,10 +1,29 @@
+<div align="center">
+
+<img src="composition-coach-web-src/icon.svg" width="112" alt="构图教练 Logo"/>
+
 # 构图教练 · Composition Coach
 
-> 手机上的**相机 Agent**：取景时实时给出构图引导、灵感构图模板、调色建议与画幅
-> 裁切，用大白话告诉拍摄者「往左挪两步、蹲低一点、现在可以拍了」——不懂摄影
-> 也能拍出好照片。
+_手机上的相机 Agent —— 取景时实时给出构图引导、灵感模板、调色建议与画幅裁切，_
+_用大白话告诉你「往左挪两步、蹲低一点、现在可以拍了」。_
+
+![平台](https://img.shields.io/badge/平台-Android_·_Web-000000?style=flat-square)
+![工程](https://img.shields.io/badge/工程-零构建_零依赖-f2a007?style=flat-square)
+![端侧 AI](https://img.shields.io/badge/端侧推理-MediaPipe-6fdc8c?style=flat-square)
+![云端](https://img.shields.io/badge/云端-OpenAI_兼容_VLM-8b8e85?style=flat-square)
+![License](https://img.shields.io/badge/license-保留所有权利-lightgrey?style=flat-square)
 
 面向**手机竖屏、单手持机、边取景边看引导**的真实拍摄场景设计。
+
+</div>
+
+---
+
+## 📸 界面速览
+
+| 黄金螺旋 · 1:1 画幅 | 引导线 · 9:16 画幅 |
+|:---:|:---:|
+| ![黄金螺旋模板与 1:1 画幅遮罩](docs/screenshots/inspiration-1x1.png) | ![引导线模板与 9:16 画幅遮罩](docs/screenshots/inspiration-9x16.png) |
 
 ## ✨ 功能特性
 
