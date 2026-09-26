@@ -1,0 +1,9 @@
+# OS 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / 工具会话产物
+.zcode/
+*.swp
+*~
